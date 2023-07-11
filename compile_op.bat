@@ -1,3 +1,5 @@
+@echo off
+
 cd utils\nearest_neighbors
 
 python setup.py install --home="."
